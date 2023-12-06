@@ -13,6 +13,6 @@ public class C01 {
          */
 
         String cityName = "Miami";
-
+        String asdsd= cityName.toUpperCase();
     }
 }
